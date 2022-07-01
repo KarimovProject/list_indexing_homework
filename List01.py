@@ -6,4 +6,9 @@ def main():
     Returns:
         list: return answer
     """
-    return
+    txt = ""
+
+    x = txt.split()
+
+    return x
+print(main())
